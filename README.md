@@ -31,7 +31,6 @@ Over the period in UK, working through multiple different jobs and industries tr
 <br>
 <br>
 <h1 align="left">Projects: 🛠️</h1>
-<p> If you would like to see all my projects, visit my <a href="https://github.com/sigii1992?tab=repositories">GitHub repositories</a>.</p>
 <table align="center">
   <tr>
     <th>Project</th>
@@ -64,9 +63,18 @@ Over the period in UK, working through multiple different jobs and industries tr
     <td>Ruby, Ruby on Rails, RSpec, Capybara, HTML, Bootstrap, MySQL, SimpleCov</td>
   </tr>
 </table>
+<p> If you would like to see all my projects, visit my <a href="https://github.com/sigii1992?tab=repositories">GitHub repositories</a>.</p>
+
+<h1 align="left">Skills:</h1>
+
+<p><strong>Detail-oriented</strong><br>I believe that detail-oriented person is a good listener and very organized. During my time in Readie Construction I was constantly taking meeting minutes to ensure that all the employees knows what decisions were made at the meeting and who is going to carry them out.
+At Makers Academy I was always trying to catch mistakes before running tests to minimise the list of errors (e.g. finding typos or brackets in the wrong place).</p>
+<p><strong>Planning</strong><br>I like to think about the future. Usually trying to finnish tasks before the due date so I could calmly concentrate on the next assignment. During my time at the coding bootcamp I was constantly trying to organise my personal time to carry out responsibilities. E.g. starting to do or to plan my weekend homework on Friday so that my time spent on the weekend challenge would be organized and the proccess would be as smooth as possible.</p>
+<p><strong>Commitment</strong><br>I completed the 4 months of Makers Academy coding bootcamp as a remote student. This required discipline, focus and self motivation.</p>
+<p><strong>Adaptable and Quick learner</strong><br>I used to live and work in Spain, UK and Lithuania where I was able to adapt to the new environment easily and quickly. Furthermore, I am able to grasp new concepts quickly and efficiently. E.g. during the weeks 8-9 at the bootcamp we had our second group engineering project which was required to be build in Ruby on Rails framework which we have never used before.</p>
+<p><strong>Teamwork</strong><br>Working in hospitality industry has led me to become a good team player. I was working with the group of different people to achieve a shared goal which was ensuring our customers remain happy. This required collaboration, excellent communication, time management and attentiveness. Moreover, I believe that my time at Makers has also given me valuable experience working as part of a team since practically every day was spent pair-programming. Additiionally, we had 3 group engineering projects which I believe prepared me for a work world in tech where teamwork and collaboration are the norm. </p>
 
 <h1 align="left">Github Profile Stats:</h1>
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sigii1992&show_icons=true&locale=en" alt="sigii1992" /></p>
 
