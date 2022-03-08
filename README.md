@@ -83,6 +83,30 @@ At Makers Academy I was always trying to catch mistakes before running tests to 
 <h1 align="left">Work Experience:</h1>
 
 <h1 align="left">Education:</h1>
+<h3>Makers Academy (September 2021 to January 2022)</h3>
+<ul>
+  <p>A 16-week intensive development bootcamp, focusing on:</p>
+  <li>Test driven development and behaviour driven development</li>
+  <li>Pair programming</li>
+  <li>Object oriented programming</li>
+  <li>Problem solving</li>
+  <li>Agile/XP</li>
+</ul>
+
+<h3>Kaunas University of Applied Sciences (2013 to 2015)</h3>
+<ul>
+  <li>Tourism and Hotel Management Bachelor (2:1 Equivalent), Thesis - “Supply and demand of services provided by hostels in Kaunas”<br>Lithuania</li>
+</ul>
+
+<h3>Self learning</h3>
+<ul>
+  <li>freeCodeCamp - my journey with coding started few years ago with freeCodeCamp where I learnt fundamentals of HTML, CSS and JavaScript.</li>
+  <li>Codecademy - see my <a href="https://www.codecademy.com/profiles/Sigiii" target="_blank" rel="noreferrer">Codecademy profile</a></li>
+  <li>Udemy - "Learn to code with Ruby" by Boris Paskhaver and "The complete JavaScript course 2021: From Zero to Expert" by Jonas Schmedtmann</li>
+  <li>Codewars - see my <a href="https://www.codewars.com/users/sigii1992" target="_blank" rel="noreferrer">Codewars profile</a></li>
+</ul>
+
+![codewars](https://www.codewars.com/users/sigii1992/badges/small)
 
 <h1 align="left">Hobbies:</h1>
 
