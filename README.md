@@ -81,6 +81,25 @@ At Makers Academy I was always trying to catch mistakes before running tests to 
 <strong>Additional skills :heavy_plus_sign:</strong><ul><li>Methodologies: Test Driven Development, Agile, Object Oriented Programming.</li><li>Foreign languages: Fluent written and spoken Lithuanian/English and basic Spanish.</li></ul>
 
 <h1 align="left">Work Experience:</h1>
+<h3>Readie Construction Ltd (March 2020 to July 2020)</h3>  
+
+<i>Site Administrator</i>
+<ul>
+  <li>Working closely with project managers and providing admin support for the site team and contractors.</li>
+  <li>Document and revision control, managing cloud-based systems for information distribution and access.</li>
+  <li>Scheduling visits and site meetings along with monitoring and ordering office supplies.</li>
+  <li>Assisting project manager with monthly reports.</li>
+</ul>
+<h3>"Fazenda" restaurant (May 2018 – November 2019)</h3>  
+
+<i>Head Waitress</i>
+<ul>
+  <li>Adhered to and maintained high quality and communication standards set out by the restaurant.</li>
+  <li>Coached and mentored new members of staff.</li>
+  <li>Undertook training to work and support reception staff when in need.</li>
+  <li>The restaurant was located at the heart of Leeds, thus improved working in a faced pace but equally professional environment.</li>
+  <li>Daily sales averaged at £40k to £80k.</li>
+</ul>
 
 <h1 align="left">Education:</h1>
 <h3>Makers Academy (September 2021 to January 2022)</h3>
