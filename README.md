@@ -101,14 +101,19 @@ At Makers Academy I was always trying to catch mistakes before running tests to 
 <h3>Self learning</h3>
 <ul>
   <li>freeCodeCamp - my journey with coding started few years ago with freeCodeCamp where I learnt fundamentals of HTML, CSS and JavaScript.</li>
-  <li>Codecademy - see my <a href="https://www.codecademy.com/profiles/Sigiii" target="_blank" rel="noreferrer">Codecademy profile</a></li>
-  <li>Udemy - "Learn to code with Ruby" by Boris Paskhaver and "The complete JavaScript course 2021: From Zero to Expert" by Jonas Schmedtmann</li>
-  <li>Codewars - see my <a href="https://www.codewars.com/users/sigii1992" target="_blank" rel="noreferrer">Codewars profile</a></li>
+  <li>Codecademy - see my <a href="https://www.codecademy.com/profiles/Sigiii" target="_blank" rel="noreferrer">Codecademy profile</a>.</li>
+  <li>Udemy - "Learn to code with Ruby" by Boris Paskhaver and "The complete JavaScript course 2021: From Zero to Expert" by Jonas Schmedtmann.</li>
+  <li>Codewars - see my <a href="https://www.codewars.com/users/sigii1992" target="_blank" rel="noreferrer">Codewars profile</a>.</li>
 </ul>
 
 ![codewars](https://www.codewars.com/users/sigii1992/badges/small)
 
 <h1 align="left">Hobbies:</h1>
+<ul>
+  <li> Cooking :stew:- Just a few years ago I discovered that I actually like cooking.</li>
+  <li> Music :notes:- I love listening spanish music, my mood level goes up all the time when I hear it.</li>
+  <li> TV series :tv:- I love watching TV series since I was little. It makes me feel relaxed.</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
