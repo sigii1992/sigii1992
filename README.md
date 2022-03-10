@@ -10,7 +10,7 @@
 <h1 align="center">Hi 👋, I'm Sigita :woman:</h1>
 <h3 align="center">A passionate Junior Full Stack developer from Lithuania 🇱🇹 living in the UK 🇬🇧</h3>
 
-<p align="left"> I am ambitious and dedicated Junior Full Stack Developer, looking for a role there I can share my experience and expand my programming knowledge in a supportive and junior-friendly environment.
+<p align="left"> I am an ambitious and dedicated Junior Full Stack Developer, looking for a role where I can share my experience and expand my programming knowledge in a supportive and junior-friendly environment.
   
 I have recently completed <a href="https://www.makers.tech/" target="_blank" rel="noreferrer"> Makers Academy</a>, an immersive 16 weeks software development bootcamp where I strengthened my previous coding knowledge to the level there I can proudly say that I am ready for my first role in this industry.
 
