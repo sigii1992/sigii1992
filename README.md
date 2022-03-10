@@ -12,7 +12,7 @@
 
 <p align="left"> I am ambitious and dedicated Junior Full Stack Developer, looking for a role there I can share my experience and expand my programming knowledge in a supportive and junior-friendly environment.
   
-I have recently completed <a href="https://www.makers.tech/" target="_blank" rel="noreferrer"> Makers Academy</a>, an immersive 16 weeks software development bootcamp where I strenthened my previous coding knowledge to the level there I can proudly say that I am ready for my first role in this industry.
+I have recently completed <a href="https://www.makers.tech/" target="_blank" rel="noreferrer"> Makers Academy</a>, an immersive 16 weeks software development bootcamp where I strengthened my previous coding knowledge to the level there I can proudly say that I am ready for my first role in this industry.
 
 Over the period in UK, working through multiple different jobs and industries trying to figure out which path to follow, I learned a lot about myself - what I am good at and what my flaws are. These factors and constant research ultimately led me to what I think I really enjoy, which is coding. I love coding and I love the feeling after you complete the challenge or the project you were stuck on for a period of time. I would like to think I have enough discipline which makes it easier for me to keep learning something new every day. Although, there are some days when I feel frustrated, I do not give up and this offers me motivation to carry on.</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sigii1992&show_icons=true&locale=en" alt="sigii1992" /></p>
