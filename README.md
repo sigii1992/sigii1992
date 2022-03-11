@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sigii1992&label=Profile%20views&color=0e75b6&style=flat" alt="sigii1992" /> </p>
 <h2 align="left">Sigita Zebrauskaite</h2>
 
-[Languages and Tools](#languages-and-tools) | [Projects](#projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Hobbies](#hobbies) | [Contact](#connect-with-me)
+[Languages and Tools](#languages-and-tools) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Work Experience](#work-experience) | [Contact](#connect-with-me)
 
 <h1 align="center">Hi 👋, I'm Sigita :woman:</h1>
 <h3 align="center">A passionate Junior Full Stack developer from Lithuania 🇱🇹 living in the UK 🇬🇧</h3>
@@ -80,6 +80,30 @@ At Makers Academy I was always trying to catch mistakes before running tests to 
 <p><strong>Teamwork :busts_in_silhouette:</strong><br>Working in hospitality industry has led me to become a good team player. I was working with the group of different people to achieve a shared goal which was ensuring best customer experience. This required collaboration, excellent communication, time management and attentiveness. Moreover, I believe that my time at Makers gave me valuable experience working as part of a team since practically every day was spent pair-programming. Additiionally, we had 3 group engineering projects which I believe prepared me for a work world in tech where teamwork and collaboration are the norm. </p>
 <strong>Additional skills :heavy_plus_sign:</strong><ul><li>Methodologies: Test Driven Development, Agile, Object Oriented Programming.</li><li>Foreign languages: Fluent written and spoken Lithuanian/English and basic Spanish.</li></ul>
 
+<h1 align="left">Education:</h1>
+<h3>Makers Academy (September 2021 to January 2022)</h3>
+<ul>
+  <p>A 16-week intensive development bootcamp, focusing on:</p>
+  <li>Test driven development and behaviour driven development</li>
+  <li>Pair programming</li>
+  <li>Object oriented programming</li>
+  <li>Problem solving</li>
+  <li>Agile/XP</li>
+</ul>
+
+<h3>Self learning</h3>
+<ul>
+  <li>freeCodeCamp - my journey with coding started few years ago with freeCodeCamp where I learnt fundamentals of HTML, CSS and JavaScript.</li>
+  <li>Codecademy - see my <a href="https://www.codecademy.com/profiles/Sigiii" target="_blank" rel="noreferrer">Codecademy profile</a>.</li>
+  <li>Udemy - "Learn to code with Ruby" by Boris Paskhaver and "The complete JavaScript course 2021: From Zero to Expert" by Jonas Schmedtmann.</li>
+  <li>Codewars - see my <a href="https://www.codewars.com/users/sigii1992" target="_blank" rel="noreferrer">Codewars profile</a>.</li>
+</ul>
+
+<h3>Kaunas University of Applied Sciences (2013 to 2015)</h3>
+<ul>
+  <li>Tourism and Hotel Management Bachelor (2:1 Equivalent), Thesis - “Supply and demand of services provided by hostels in Kaunas”<br>Lithuania</li>
+</ul>
+
 <h1 align="left">Work Experience:</h1>
 <h3>Readie Construction Ltd (March 2020 to July 2020)</h3>  
 
@@ -101,38 +125,7 @@ At Makers Academy I was always trying to catch mistakes before running tests to 
   <li>Daily sales averaged at £40k to £80k.</li>
 </ul>
 
-<h1 align="left">Education:</h1>
-<h3>Makers Academy (September 2021 to January 2022)</h3>
-<ul>
-  <p>A 16-week intensive development bootcamp, focusing on:</p>
-  <li>Test driven development and behaviour driven development</li>
-  <li>Pair programming</li>
-  <li>Object oriented programming</li>
-  <li>Problem solving</li>
-  <li>Agile/XP</li>
-</ul>
-
-<h3>Kaunas University of Applied Sciences (2013 to 2015)</h3>
-<ul>
-  <li>Tourism and Hotel Management Bachelor (2:1 Equivalent), Thesis - “Supply and demand of services provided by hostels in Kaunas”<br>Lithuania</li>
-</ul>
-
-<h3>Self learning</h3>
-<ul>
-  <li>freeCodeCamp - my journey with coding started few years ago with freeCodeCamp where I learnt fundamentals of HTML, CSS and JavaScript.</li>
-  <li>Codecademy - see my <a href="https://www.codecademy.com/profiles/Sigiii" target="_blank" rel="noreferrer">Codecademy profile</a>.</li>
-  <li>Udemy - "Learn to code with Ruby" by Boris Paskhaver and "The complete JavaScript course 2021: From Zero to Expert" by Jonas Schmedtmann.</li>
-  <li>Codewars - see my <a href="https://www.codewars.com/users/sigii1992" target="_blank" rel="noreferrer">Codewars profile</a>.</li>
-</ul>
-
 ![codewars](https://www.codewars.com/users/sigii1992/badges/small)
-
-<h1 align="left">Hobbies:</h1>
-<ul>
-  <li> Cooking :stew:- Just a few years ago I discovered that I actually like cooking.</li>
-  <li> Music :notes:- I love listening spanish music, my mood level goes up all the time when I hear it.</li>
-  <li> TV series :tv:- I love watching TV series since I was little. It makes me feel relaxed.</li>
-</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
