@@ -10,11 +10,9 @@
 <h1 align="center">Hi 👋, I'm Sigita :woman:</h1>
 <h3 align="center">A passionate Junior Full Stack developer from Lithuania 🇱🇹 living in the UK 🇬🇧</h3>
 
-<p align="left"> I am an ambitious and dedicated Junior Full Stack Developer, looking for a role where I can share my experience and expand my programming knowledge in a supportive and junior-friendly environment. Previous work experience in construction management as well as numerous roles in hospitality.
-  
-I have recently completed <a href="https://www.makers.tech/" target="_blank" rel="noreferrer"> Makers Academy</a>, an immersive 16 weeks software development bootcamp where I strengthened my previous coding knowledge to the level where I can proudly say that I am ready for my first role in this industry.
+<p align="left"> I am an ambitious and dedicated Junior Full Stack Developer, looking for a role where I can share my experience and expand my programming knowledge in a supportive and junior-friendly environment. I have recently completed <a href="https://www.makers.tech/" target="_blank" rel="noreferrer"> Makers Academy</a>, an immersive 16 week software development bootcamp where I strengthened my previous coding knowledge to the level where I can proudly say that I am ready for my first role in this industry. Previous work experience in construction management as well as numerous roles in hospitality.
 
-Over the period in UK, working through multiple different jobs and industries trying to figure out which path to follow, I learned a lot about myself - what I am good at and what my flaws are. These factors and constant research ultimately led me to what I really enjoy, which is coding. I love coding and I love the feeling after you complete a challenge or a project you were working on for a period of time. I would like to think I have enough discipline which makes it easier for me to keep learning something new every day. Although, there are some days when I feel frustrated, I do not give up and this offers me motivation to carry on.</p>
+Over the last 6 years living in UK, working through multiple different jobs and industries, trying to figure out which path to follow, I learned a lot about myself - that I have a good attention to detail, that I'm very determined and focused as well as a great team player. These factors and constant research ultimately led me to what I really enjoy, which is coding. I love coding and I love the feeling after you complete a challenge or a project you were working on for a period of time. I would like to think I have enough discipline which makes it easier for me to keep learning something new every day. Although, there are some days when I feel frustrated, I do not give up and this offers me motivation to carry on.</p>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sigii1992&show_icons=true&locale=en" alt="sigii1992" /></p> -->
 
 <h1 align="left">Languages and Tools:</h1>
@@ -64,12 +62,16 @@ Over the period in UK, working through multiple different jobs and industries tr
 <p> If you would like to see all my projects, visit my <a href="https://github.com/sigii1992?tab=repositories">GitHub repositories</a>.</p>
 
 <h1 align="left">Skills:</h1>
-<p><strong>Detail-oriented :ear:</strong><br>I believe that detail-oriented person is a good listener and very organized. During my time in Readie Construction I was constantly taking meeting minutes to ensure that all the employees knows what decisions were made at the meeting and who is going to carry them out.
-At Makers Academy I was always trying to catch mistakes before running tests to minimise the list of errors (e.g. finding typos or brackets in the wrong place).</p>
-<p><strong>Planning/Time management :calendar:</strong><br>I like to think about the future. During my time in Readie Construction I was always trying to order suplies like paper, printer ink or coffee on time so that the office would be fully stocked and we would never have any shortages. Also, I am usually trying to finish tasks before the due date so I could relax and calmly concentrate on the next assignment. During my time at the coding bootcamp I was constantly trying to organise my personal time to carry out responsibilities, i.e., attempting or setting up a plan for my weekend homework on Friday so that my time spent during weekend challenges would be organized and the proccess would be as smooth as possible.</p>
-<p><strong>Commitment :computer:</strong><br> I've started to self-learn coding more than a year ago and completed the 4 months Makers Academy coding bootcamp as a remote student. This required discipline, focus and self motivation. Furthermore, during my time in hospitality I was always trying to go an extra mile for the customers to make their occasion even more special i.e. serving a cake on the house and singing "Happy Birthday". It is always warming to hear how you've made someone's day.</p>
+<p><strong>Detail-oriented :ear:</strong><br>I believe that detail-oriented person is a good listener and very organized. During my time with Readie Construction, I was constantly taking meeting minutes to ensure that all the employees know what decisions were made at the meeting and who needs to carry them out. At Makers Academy I was proactively focusing on typos and syntax mistakes before running tests to minimise the list of errors.</p>
+
+<p><strong>Planning/Time management :calendar:</strong><br>Whilst at Readie Construction, I was always trying to order supplies in advance so that our office was fully stocked and we wouldn’t run into shortages. Also, where possible, my aim was to finish tasks before the due date so I could relax and calmly concentrate on my next assignment. At the same time, during my time at the coding bootcamp, I was constantly trying to organise my personal time to carry out responsibilities such as setting up a plan for my weekend homework on Friday so that my time spent during weekend challenges would be smooth and well organized.</p>
+
+<p><strong>Commitment :computer:</strong><br> I've started to self-learn coding more than a year ago and completed the four months Makers Academy coding bootcamp as a remote student. This required discipline, focus and self-motivation. Furthermore, during my time in the hospitality sector, I always went the extra mile for my customers to make their stay as memorable as possible as well as adhering to high industry standards. It was always warming to hear how you've made someone's day.</p>
+  
 <p><strong>Adaptable and Quick learner :open_hands:</strong><br>I used to live and work in Lithuania, Spain and UK where I was able to adapt to the new environments at ease and without any difficulty. Furthermore, I am able to grasp new concepts quickly and efficiently, i.e., during my bootcamp course (week 8-9), we successfully built our group's engineering project in Ruby on Rails framework without prior knowledge and within limited timeframe. As well as learning TDD in the first week which was quite a challenge for many of us since it was a new methodology and it was the first time I heard about it. </p>
-<p><strong>Teamwork :busts_in_silhouette:</strong><br>Working in hospitality industry has led me to become a good team player. I was working with the group of different people to achieve a shared goal which was ensuring best customer experience. This required collaboration, excellent communication, time management and attentiveness. Moreover, I believe that my time at Makers gave me valuable experience working as part of a team since practically every day was spent pair-programming. Additiionally, we had 3 group engineering projects which I believe prepared me for a work world in tech where teamwork and collaboration are the norm. </p>
+
+<p><strong>Teamwork :busts_in_silhouette:</strong><br>Working in hospitality industry has led me to become a good team player. I was working with the group of different people to achieve a shared goal which was ensuring best customer experience. This required collaboration, excellent communication, time management and attentiveness. Moreover, I believe that my time at Makers gave me valuable experience working as part of a team since practically every day was spent pair-programming. Additionally, we had three group engineering projects which I believe prepared me for a work world in tech where teamwork and collaboration are the norm. </p>
+
 <strong>Additional skills :heavy_plus_sign:</strong><ul><li>Methodologies: Test Driven Development, Agile, Object Oriented Programming.</li><li>Foreign languages: Fluent written and spoken Lithuanian/English and basic Spanish.</li></ul>
 
 <h1 align="left">Education:</h1>
@@ -80,15 +82,15 @@ At Makers Academy I was always trying to catch mistakes before running tests to 
   <li>We used pair programming technique frequently with multiple different individuals on the course, going through Test Driven Development and using effective comunication.</li>
   <li>Attended stand ups and contributed in retros while choosing Agile methodology as a way to improve overall team cohesion as well as emotional intelligence and XP values.</li>
   <li>Focused on becoming "language agnostic" and being able to adapt to new languages with ease.</li>
-  <li>Constantly used Problem Solving methodology to identify the bugs and errors in our projects.</li>
+  <li>Constantly used Problem Solving methodology to identify bugs and errors in our projects.</li>
 </ul>
 
 <h3>Self learning</h3>
 <ul>
   <li>freeCodeCamp - my journey with coding started few years ago with freeCodeCamp where I learnt fundamentals of HTML, CSS and JavaScript.</li>
-  <li>Codecademy - see my <a href="https://www.codecademy.com/profiles/Sigiii" target="_blank" rel="noreferrer">Codecademy profile</a>.</li>
-  <li>Udemy - "Learn to code with Ruby" by Boris Paskhaver and "The complete JavaScript course 2021: From Zero to Expert" by Jonas Schmedtmann.</li>
-  <li>Codewars - see my <a href="https://www.codewars.com/users/sigii1992" target="_blank" rel="noreferrer">Codewars profile</a>.</li>
+  <li>Codecademy - used this source to finish several courses on Ruby, JavaScrip and React. See my <a href="https://www.codecademy.com/profiles/Sigiii" target="_blank" rel="noreferrer">Codecademy profile</a>.</li>
+  <li>Udemy - used this source to finish "Learn to code with Ruby" by Boris Paskhaver and "The complete JavaScript course 2021: From Zero to Expert" by Jonas Schmedtmann.</li>
+  <li>Codewars - used this source in conjunction with above courses to solve challenges and advance my language skills. See my <a href="https://www.codewars.com/users/sigii1992" target="_blank" rel="noreferrer">Codewars profile</a>.</li>
 </ul>
 
 ![codewars](https://www.codewars.com/users/sigii1992/badges/small)
