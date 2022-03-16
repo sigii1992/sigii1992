@@ -76,7 +76,7 @@ At Makers Academy I was always trying to catch mistakes before running tests to 
 <h3>Makers Academy (September 2021 to January 2022)</h3>
 <ul>
   <p>A 16-week intensive development bootcamp:</p>
-  <li>Before every project we used to create user stories (Behavior Driven Development) which was used as an acceptance criteria. It helped us to create a shared understanding of what should be developed and avoid development of features that nobody want or that do not meet the acceptance criteria. </li>
+  <li>Before every project we used to create user stories which was used as an acceptance criteria (Behavior Driven Development). It helped us to create a shared understanding of what should be developed and avoid development of features that nobody want or that do not meet the acceptance criteria. </li>
   <li>We used pair programming technique frequently with multiple different individuals on the course, going through Test Driven Development and using effective comunication.</li>
   <li>Attended stand ups and contributed in retros while choosing Agile methodology as a way to improve overall team cohesion as well as emotional intelligence and XP values.</li>
   <li>Focused on becoming "language agnostic" and being able to adapt to new languages with ease.</li>
