@@ -87,10 +87,10 @@ Over the last 6 years living in UK, working through multiple different jobs and 
 
 <h3>Self learning</h3>
 <ul>
-  <li>freeCodeCamp - my journey with coding started few years ago with freeCodeCamp where I learnt fundamentals of HTML, CSS and JavaScript.</li>
-  <li>Codecademy - used this source to finish several courses on Ruby, JavaScrip and React. See my <a href="https://www.codecademy.com/profiles/Sigiii" target="_blank" rel="noreferrer">Codecademy profile</a>.</li>
-  <li>Udemy - used this source to finish "Learn to code with Ruby" by Boris Paskhaver and "The complete JavaScript course 2021: From Zero to Expert" by Jonas Schmedtmann.</li>
-  <li>Codewars - used this source in conjunction with above courses to solve challenges and advance my language skills. See my <a href="https://www.codewars.com/users/sigii1992" target="_blank" rel="noreferrer">Codewars profile</a>.</li>
+  <li><strong>freeCodeCamp</strong> - my journey with coding started few years ago with freeCodeCamp where I learnt fundamentals of HTML, CSS and JavaScript.</li>
+  <li><strong>Codecademy</strong> - used this source to finish several courses on Ruby, JavaScrip and React. See my <a href="https://www.codecademy.com/profiles/Sigiii" target="_blank" rel="noreferrer">Codecademy profile</a>.</li>
+  <li><strong>Udemy</strong> - used this source to finish "Learn to code with Ruby" by Boris Paskhaver and "The complete JavaScript course 2021: From Zero to Expert" by Jonas Schmedtmann.</li>
+  <li><strong>Codewars</strong> - used this source in conjunction with above courses to solve challenges and advance my language skills. See my <a href="https://www.codewars.com/users/sigii1992" target="_blank" rel="noreferrer">Codewars profile</a>.</li>
 </ul>
 
 ![codewars](https://www.codewars.com/users/sigii1992/badges/small)
