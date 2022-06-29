@@ -22,7 +22,7 @@ Over the last 6 years living in UK, working through multiple different jobs and 
 <p> <strong>Programming Languages:</strong> Ruby, JavaScript, HTML, CSS.<br>
 <strong>Frameworks and Libraries:</strong> Ruby on Rails, React, Bootstrap, Material-ui, Sinatra.<br> 
 <strong>Testing:</strong> RSpec, Capybara, Jest.<br>
-<strong>Tools/Other:</strong> Command-line, Git, Github, PostgreSQL, TablePlus, NodeJS, VS Code.<br>
+<strong>Tools/Other:</strong> Command-line, Git, Github, PostgreSQL,SQLite, DB browser for SQLite, TablePlus, NodeJS, VS Code.<br>
   
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sigii1992&show_icons=true&locale=en&layout=compact" alt="sigii1992" /></p> -->
 
