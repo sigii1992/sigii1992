@@ -20,7 +20,7 @@ Over the last 6 years living in UK, working through multiple different jobs and 
 
 
 <p> <strong>Programming Languages:</strong> Ruby, JavaScript, TypeScript, HTML, CSS.<br>
-<strong>Frameworks and Libraries:</strong> Ruby on Rails, React, Bootstrap, Material-ui, Sinatra.<br> 
+<strong>Frameworks and Libraries:</strong> Ruby on Rails, React, Bootstrap, Material-ui, Sinatra, NestJS.<br> 
 <strong>Testing:</strong> RSpec, Capybara, Jest.<br>
 <strong>Tools/Other:</strong> Command-line, Git, Github, PostgreSQL, SQLite, DB browser for SQLite, TablePlus, NodeJS, VS Code.<br>
   
