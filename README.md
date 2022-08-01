@@ -2,7 +2,7 @@
 <!--
 **sigii1992/sigii1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sigii1992&label=Profile%20views&color=0e75b6&style=flat" alt="sigii1992" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sigii1992&label=Profile%20views&color=0e75b6&style=flat" alt="sigii1992" /> --> </p>
 <h2 align="left">Sigita Zebrauskaite</h2>
 
 [Languages and Tools](#languages-and-tools) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Work Experience](#work-experience) | [Contact](#connect-with-me)
