@@ -4,7 +4,7 @@
 -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sigii1992&label=Profile%20views&color=0e75b6&style=flat" alt="sigii1992" /> --> </p>
 
-<h2 align="left">Sigita Zebrauskaite</h2><h3 align="left">Check my portfolio site: https://sigita-zeb-portfolio.netlify.app/</h3>
+<h2 align="left">Sigita Zebrauskaite</h2><h3 align="left">Check my portfolio site: <a href="https://sigita-zeb-portfolio.netlify.app/" target="_blank" rel="noreferrer">Click here and check it out!</a></h3>
 
 [Languages and Tools](#languages-and-tools) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Work Experience](#work-experience) | [Contact](#connect-with-me)
 
